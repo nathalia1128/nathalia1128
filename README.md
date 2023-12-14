@@ -17,6 +17,6 @@ I'm on an exciting learning journey, exploring:
 
 #### 💬 Let's Connect
 
-I'm enthusiastic about collaborating on projects or engaging in discussions about the fascinating world of mathematics and programming. Connect with me on ![[LinkedIn](https://www.linkedin.com/in/nathalia-castiblanco/)] or drop me an email at ncastiblancocarretero@gmail.com.
+I'm enthusiastic about collaborating on projects or engaging in discussions about the fascinating world of mathematics and programming. Connect with me on [[LinkedIn](https://www.linkedin.com/in/nathalia-castiblanco/)] or drop me an email at ncastiblancocarretero@gmail.com.
 
 Thanks for stopping by! Excited to connect with fellow developers and math enthusiasts. Happy coding! 🚀
